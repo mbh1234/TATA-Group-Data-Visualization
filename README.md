@@ -1,4 +1,4 @@
-# Tata Data Visualization Virtual Internship  
+# Tata Data Visualization Internship  
 
 This repository contains the code, data, and instructions for the Tata Data Visualization Internship, focused on empowering businesses with effective insights through data visualization. The project demonstrates the use of Tableau and Power BI to analyze and visualize retail data, enabling business leaders to make informed decisions.
 
